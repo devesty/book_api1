@@ -1,0 +1,25 @@
+{
+  "name": "book_api1",
+  "version": "1.0.0",
+  "description": "A simple task that get book, post book, update book and delete books.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/devesty/book_api1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devesty/book_api1/issues"
+  },
+  "homepage": "https://github.com/devesty/book_api1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2"
+  }
+}
